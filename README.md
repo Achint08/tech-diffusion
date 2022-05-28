@@ -42,6 +42,15 @@ The dataset used is Google Patents dataset.
 * Decision Tree – Accuracy about 93%
 * Random Forest – Accuracy about 95%
 
+
+## Other Contributors
+
+- Achint Sharma 
+- Simron Waskar
+- Sumit Dhundiyal
+- Zexu Li 
+
+
 ## Conclusion
 
 * Technology diffusion exists and has been increasing year by year.
