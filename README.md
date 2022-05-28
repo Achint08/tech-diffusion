@@ -45,7 +45,6 @@ The dataset used is Google Patents dataset.
 
 ## Other Contributors
 
-- Achint Sharma 
 - Simron Waskar
 - Sumit Dhundiyal
 - Zexu Li 
